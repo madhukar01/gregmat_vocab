@@ -11,7 +11,7 @@ Anki is a flashcard platform with [Spaced - Repetition support](https://en.wikip
 Instructions:
 1. Download Anki application on your PC from [here](https://apps.ankiweb.net/)
 2. Create an account and Login - This is necessary to sync flashcards across Desktop, Mobile and Web apps
-3. Download the `gregMatVocab.apkg` file from this repository
+3. Download this file - [`gregMatVocab.apkg`](gregMatVocab.apkg)
 4. Import the file in Anki
     - On the homepage, `File -> Import`
 5. Enjoy!
